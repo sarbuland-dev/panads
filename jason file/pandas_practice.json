@@ -1,0 +1,32 @@
+[
+    {
+        "Name":"Ali",
+        "Age":22,
+        "City":"Lahore",
+        "Score":85
+    },
+    {
+        "Name":"Sara",
+        "Age":25,
+        "City":"Karachi",
+        "Score":90
+    },
+    {
+        "Name":"Umer",
+        "Age":28,
+        "City":"Islamabad",
+        "Score":78
+    },
+    {
+        "Name":"Ayesha",
+        "Age":24,
+        "City":"Multan",
+        "Score":88
+    },
+    {
+        "Name":"Hamza",
+        "Age":30,
+        "City":"Peshawar",
+        "Score":92
+    }
+]
