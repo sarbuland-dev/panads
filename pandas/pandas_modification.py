@@ -25,5 +25,6 @@ df.drop(columns=["id"],inplace=True)
 print(df)
 print()
 # now remove multiple columns:
+df.insert(0,"id",["A1","A2","A3","A4","A5"])     #firsty we create id column again phe error ni ay ga
 df.drop(columns=["id","bounce"],inplace=True)
 print(df)
