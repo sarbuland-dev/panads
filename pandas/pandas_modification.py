@@ -52,7 +52,7 @@ print()
 
 print(df.dropna(inplace=False))
 print()
-print(df.fillna("not define",inplace=True))
+print(df.fillna("not define  ",inplace=True))
 print(df)
 # ab kisi specfic cloumn ko access karna ha
 df["Age"].fillna(df["Age"].mean(),inplace=True)
