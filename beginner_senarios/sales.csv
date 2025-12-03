@@ -1,5 +1,5 @@
-item,price,quantity
-pencil,20,5
-notebook,100,2
-eraser,10,10
-pen,50,4
+,item,price,quantity,total_revenue
+0,pencil,20,5,100
+1,notebook,100,2,200
+2,eraser,10,10,100
+3,pen,50,4,200
