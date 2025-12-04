@@ -1,0 +1,11 @@
+employee_id,name,age,department,salary,join_date,email
+1,Ali,30,IT,80000,2025-01-15,ali@example.com
+2,Sara,,HR,,2025-02-20,sara@example.com
+3,Hamza,28,Finance,70000,2025/03/01,hamza_at_example.com
+4,Ayesha,35,IT,85000,2025-01-25,ayesha@example.com
+5,Ali,30,IT,80000,2025-01-15,ali@example.com
+6,Zara,twenty-nine,HR,50000,2025-03-10,zara@example
+7,Imran,40,Finance,,2025-02-30,imran@example.com
+8,Maryam,27,it,60000,2025-01-18,maryam@example.com
+9,Usman,32,hr,55000,2025-02-22,usman@example.com
+10,Rahim,45,Finance,120000,2025-01-30,rahim@example.com
